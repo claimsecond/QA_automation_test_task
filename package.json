@@ -1,0 +1,15 @@
+{
+  "name": "qa_automation_test_task",
+  "version": "1.0.0",
+  "description": "QA automation test task by Pecode",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^10.3.0",
+    "mochawesome": "^7.1.3"
+  }
+}
